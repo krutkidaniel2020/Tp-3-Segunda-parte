@@ -1,3 +1,5 @@
+package Programa;
+
 import Modelo.Rojo;
 import Modelo.Semaforo;
 

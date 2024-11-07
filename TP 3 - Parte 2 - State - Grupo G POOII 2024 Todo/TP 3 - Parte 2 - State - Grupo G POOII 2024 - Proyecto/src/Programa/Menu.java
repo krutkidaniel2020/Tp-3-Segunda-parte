@@ -1,3 +1,4 @@
+package Programa;
 import java.util.Scanner;
 
 import Modelo.Amarillo;
