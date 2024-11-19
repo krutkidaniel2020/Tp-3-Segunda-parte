@@ -1,3 +1,4 @@
+package Modelo;
 /**
  * Clase que representa el componente base del patron Decorator. 
  * Representa una pizza en el sistema. Esta interfaz define los métodos básicos 

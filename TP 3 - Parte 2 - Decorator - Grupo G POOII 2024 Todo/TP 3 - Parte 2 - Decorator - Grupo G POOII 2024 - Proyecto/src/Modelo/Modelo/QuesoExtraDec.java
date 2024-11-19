@@ -1,3 +1,5 @@
+package Modelo;
+
 /**
  * Decorador de pizza que añade queso extra a una pizza existente.
  * 

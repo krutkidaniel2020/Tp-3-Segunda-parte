@@ -1,3 +1,5 @@
+package Modelo;
+
 /**
  * Decorador de pizza que añade jamón a una pizza existente.
  *

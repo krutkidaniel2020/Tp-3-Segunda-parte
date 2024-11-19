@@ -1,3 +1,6 @@
+
+package Modelo;
+
 /**
  * Decorador de pizza que añade champiñones a una pizza existente.
  *

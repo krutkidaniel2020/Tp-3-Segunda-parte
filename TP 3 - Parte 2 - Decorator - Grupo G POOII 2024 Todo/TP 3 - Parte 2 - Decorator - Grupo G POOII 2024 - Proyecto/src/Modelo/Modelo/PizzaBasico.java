@@ -1,3 +1,5 @@
+package Modelo;
+
 /**
  * Clase que representa un componente concreto del patron Decorator
  * Representa una pizza básica. Sirve como punto de partida para crear pizzas más elaboradas

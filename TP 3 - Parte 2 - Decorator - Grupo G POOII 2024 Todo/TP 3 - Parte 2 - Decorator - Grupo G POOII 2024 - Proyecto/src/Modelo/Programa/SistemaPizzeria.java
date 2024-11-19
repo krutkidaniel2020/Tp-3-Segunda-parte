@@ -1,9 +1,15 @@
+package Programa;
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
 
+import Modelo.ChampiñonesDec;
+import Modelo.JamonDec;
+import Modelo.Pizza;
+import Modelo.PizzaBasico;
+import Modelo.QuesoExtraDec;
 
 /**
  * Clase principal que demuestra el uso del patrón Decorator para crear diferentes tipos de pizzas.
@@ -12,6 +18,8 @@
  * 
  * @author Grupo G
  */
+
+
 public class SistemaPizzeria {
 
     /**

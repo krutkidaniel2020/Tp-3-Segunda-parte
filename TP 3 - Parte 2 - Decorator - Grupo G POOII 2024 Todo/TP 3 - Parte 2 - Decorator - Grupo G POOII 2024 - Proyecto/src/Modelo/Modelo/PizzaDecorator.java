@@ -1,3 +1,5 @@
+package Modelo;
+
 /**
  * Representa un decorador de pizza, que permite agregar ingredientes o características adicionales a una pizza existente.
  * Esta clase abstracta proporciona la implementación básica de un decorator, delegando la obtención de la descripción 
